@@ -1,10 +1,6 @@
-# 进入你的本地项目文件夹
-cd F:\speed
-
-# 初始化 Git 并上传
-git init
+git clone https://github.com/3inlonChen/Crusher.git
+cd Crusher
+# 把你的 HTML/CSS/JS 文件复制进去
 git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin hhttps://github.com/JinlonChen/Crusher.git
-git push -u origin main
+git commit -m "Add website files"
+git push
