@@ -1,5 +1,5 @@
 # 进入你的本地项目文件夹
-cd C:\Users\QDX08072326\Desktop\202504临时文件夹\test\线速度计算(不可录入)
+cd F:\speed
 
 # 初始化 Git 并上传
 git init
